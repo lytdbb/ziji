@@ -7,7 +7,6 @@
         "灭火器": "https://alist1.owen10086.repl.co", 
         "轻弹浅唱": "https://g.xiang.lol", 
         "晴园的宝藏库": "https://alist.52qy.repl.co", 
-        "菊花盘": "https://pan.142856.xyz", 
         "星梦": "https://pan.bashroot.top", 
         "小江": "https://dyj.me", 
         "触光": "https://pan.ichuguang.com", 
@@ -21,8 +20,35 @@
         "姬路白雪": "https://pan.jlbx.xyz", 
         "博哥": "http://www.top12345.top"
     },
+    "QiQi":[ 
+        {
+          "jx":"http://lanlan.ckflv.cn/?url=",
+          "jxfrom":"other",
+          "gs":"data,url",
+          "erro":""
+          },
+        {
+          "jx":"http://lanlan.ckflv.cn/?url=",
+          "gs":"data,url",
+          "jxfrom":"QiQi",
+          "erro":"解析失败"
+          }
+    ],
+    "YSDQ": {
+        "thlimit": 5, 
+        "searchList":"qq,ik,bw,ld,bb,ps,ys,zzy,xzt",
+        "ocrurl": "https://api.nn.ci/ocr/b64/text"
+    },
     "Ali": {
-        "token": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+        "token": "http://ali.饭太硬.ml/tok"
+    },
+    "Bili": {
+        "cookie": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/cookie.txt", 
+        "category": "纪录片,纪录片|相声,相声小品"
+    },
+    "Zhaozy": {
+        "username": "Unbaked4136", 
+        "password": "4hzxQkB9yxX5EP"
     },
     "Zhibo": [
         {
