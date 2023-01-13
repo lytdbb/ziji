@@ -89,6 +89,7 @@
 {"key":"csp_xpath_qiumi2","name":"⚽Jrs球迷2","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "http://52bsj.vip:81/api/v3/file/get/67789/jrs.json?sign=IfReTW5SiOkpHfdT2IjcQ9vPeDnb6xE3SGWZ0dmmtVc%3D%3A0"},
 {"key":"csp_xpath_qiumi3","name":"⚽Jrs球迷3","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "http://52bsj.vip:81/api/v3/file/get/67800/jrs2.txt?sign=BiSOxYoue2E8ViyWxZisSRl8QCqn2nJZxiDtVXlDO-E%3D%3A0"},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[js]","type":3,"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js","ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/JRKAN直播.js"},
+{"key":"drpy_js_JRKAN直播2","name":"JRKAN直播2[js]","type":3,"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js","ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/JRKAN直播.js"},
 {"key":"csp_xBPQ_zf","name":"🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable":0,"quickSearch": 0,"filterable": 0,"ext": "https://xn--m7r412advb92j21st65a.tk/xbpq/抓饭体育.json"},
 {
       "key": "易搜",
