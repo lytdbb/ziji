@@ -1,50 +1,67 @@
-{
-    "Alist": {
-        "米奇妙妙屋": "https://anime.mqmmw.ga", 
-        "小兵组网盘影视": "https://6vv.app", 
-        "一只鱼": "https://alist.youte.ml", 
-        "七米蓝": "https://al.chirmyram.com",   
-        "灭火器": "https://alist1.owen10086.repl.co", 
-        "轻弹浅唱": "https://g.xiang.lol", 
-        "晴园的宝藏库": "https://alist.52qy.repl.co", 
-        "星梦": "https://pan.bashroot.top", 
-        "小江": "https://dyj.me", 
-        "触光": "https://pan.ichuguang.com", 
-        "好汉吧": "https://8023.haohanba.cn", 
-        "DISK": "http://124.222.140.243:8080",  
-        "SB盘": "http://sbpan.tk", 
-        "小雅的网盘": "http://101.34.67.237:5244", 
-        "西南第一捧心人": "http://116.205.232.165:5244", 
-        "神族九帝(教育)": "https://alist.shenzjd.com", 
-        "课程搜索": "https://www.souke365.cn", 
-        "姬路白雪": "https://pan.jlbx.xyz", 
-        "博哥": "http://www.top12345.top"
+Skip to content
+Sign up
+lm317379829
+/
+PyramidStore
+Public
+forked from UndCover/PyramidStore
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+PyramidStore/YSDQ.json
+ @lm317379829
+lm317379829 Update YSDQ.json
+ 1 contributor
+74 lines (73 sloc)  2 KB
+ {
+"Alist": {
+"小雅": "http://alist.xiaoya.pro",
+"杜比": "https://dubi.tk",
+"七米蓝": "https://al.chirmyram.com",
+"触光云盘": "https://pan.ichuguang.com",
+"资源小站": "https://960303.xyz/ali"
+},
+    "YSDQ": {
+        "thlimit": 5, 
+        "searchList":"qq,ik,bb,ps,ys,zzy,xzt",
+        "speedLimit":"1K",
+        "disableIPV6":"yes",
+        "ocrurl": "https://api.nn.ci/ocr/b64/text", 
+        "T4api": [
+          {
+            "name":"网飞", 
+            "api":"http://81.68.89.191:60007/{删除内部文字，保留中括号}/更换为自己的id/更换为自己的secret/yanet"
+            }, 
+            {
+              "name":"明日", 
+              "api":"http://81.68.89.191:60007/{删除内部文字，保留中括号}/更换为自己的id/更换为自己的secret/mrys"      
+            }
+        ]
+    },
+    "Ali": {
+        "token": "http://我不是.肥猫.love:63/token.php"
+        
     },
     "QiQi":[ 
+        {
+          "jx":"http://110.42.2.115:880/analysis/json/?uid=2100&my=XXXXXXXX&mgtv=app&url=",
+          "gs":"url",
+          "jxfrom":"QiQi",
+          "erro":"500"
+          },
         {
           "jx":"http://lanlan.ckflv.cn/?url=",
           "jxfrom":"other",
           "gs":"data,url",
           "erro":""
-          },
-        {
-          "jx":"http://lanlan.ckflv.cn/?url=",
-          "gs":"data,url",
-          "jxfrom":"QiQi",
-          "erro":"解析失败"
           }
     ],
-    "YSDQ": {
-        "thlimit": 5, 
-        "searchList":"qq,ik,bw,ld,bb,ps,ys,zzy,xzt",
-        "ocrurl": "https://api.nn.ci/ocr/b64/text"
-    },
-    "Ali": {
-        "token": "http://ali.饭太硬.ml/tok"
-    },
     "Bili": {
-        "cookie": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/cookie.txt", 
-        "category": "纪录片,纪录片|相声,相声小品"
+        "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt", 
+        "category": "健身,刘畊宏 9月21日|相声,相声小品"
     },
     "Zhaozy": {
         "username": "Unbaked4136", 
@@ -73,3 +90,17 @@
         }
     ]
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
